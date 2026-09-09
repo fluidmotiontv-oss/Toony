@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Master Production Studio Engine",
+  "description": "An AI system designed to generate video scenes, animation specs, script dialogues, and visual assets combining four core applications and creative worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
